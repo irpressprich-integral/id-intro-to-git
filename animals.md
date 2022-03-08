@@ -1,4 +1,16 @@
-I went to the X, and I saw:
+I went to the safari, and I saw:
 
- - Y
- - Z
+ - Lions
+ - Elephants
+ - Leopards
+ - Rhinoceros
+ - Cape Buffalo
+ - Cheetahs
+ - Hyenas
+ - Giraffes
+ - Zebras
+ - Hippos
+ - African Wild Dogs
+ - Crocodiles
+ - Kudus
+ - Warthhogs
