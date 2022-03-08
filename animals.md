@@ -1,4 +1,12 @@
-I went to the X, and I saw:
+I went to the farm, and I saw:
 
- - Y
- - Z
+ - Cows
+ - Ducks
+ - Sheep
+ - Goats
+ - Chickens
+ - Pigs
+ - Cape Buffalo
+ - A Farmer
+ - Ostriches
+ - A Dinosaur
