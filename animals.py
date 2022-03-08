@@ -6,4 +6,11 @@ if animal == "":
 
 print(f"What does the {animal} say?")
 
-print("I don't know that one...")
+if animal == "lion":
+   print("Roar!")
+elif animal == "elephant":
+   print("Toot")
+elif animal == "leopard":
+   print("Auuuff")
+else:
+   print("I don't know that one...")
